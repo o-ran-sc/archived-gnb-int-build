@@ -1,4 +1,3 @@
 # UUID                                                                        	Group Name
 #
 77da35112693f7cc11264b1dd6c4c2c63d2b9454                                      	saml/oran-gerrit-gnb-int-build-committers
-ldap:cn=oran-gerrit-gnb-int-build-committers,ou=Groups,dc=freestandards,dc=org	ldap/oran-gerrit-gnb-int-build-committers
